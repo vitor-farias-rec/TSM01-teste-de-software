@@ -9,4 +9,4 @@
 - [U02 - AV. Aplicar Todas as Fases do STLC](./U02-aplicar-fases-STLC)
 - [U02 - AV. Etapas Ciclo de Vida dos Testes](./U02-etapas-ciclo-de-vida-dos-testes)
 - [U02 - AV. Descrição do Sistema](./U02-descricao-do-sistema)
-- [U02 - AV. Metodologias de Desenvolvimento](./M01U02-metodologias-de-desenvolvimento)
+- [U02 - AV. Metodologias de Desenvolvimento](./M01U02-metodologias-de-desenvolvimento.docx)
