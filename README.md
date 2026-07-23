@@ -10,3 +10,7 @@
 - [U02 - AV. Etapas Ciclo de Vida dos Testes](./M01U02-etapas-ciclo-de-vida-dos-testes.pdf)
 - [U02 - AV. Descrição do Sistema](./M01U02-descricao-do-sistema.pdf)
 - [U02 - AV. Metodologias de Desenvolvimento](./M01U02-metodologias-de-desenvolvimento.pdf)
+
+## Unidade 3
+- [U03 - AV. Testes Funcionais](./M01U03-testes-funcionais.pdf)
+- [U03 - AV. Testes não Funcionais](./M01U03-testes-não-funcionais.pdf)
