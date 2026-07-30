@@ -18,25 +18,25 @@ A formação possui carga horária total de **215 horas** (159h presenciais e 56
 ## Módulo 01
 
 ### Unidade 1: Introdução à Qualidade e Testes
-* [U01 - AV. Introdução a Testes e Qualidade](./M01U01-introduçao-a-testes-e-qualidade.md)
+* [U01 - AV. Introdução a Testes e Qualidade](./modulo-01/M01U01-introduçao-a-testes-e-qualidade.md)
   * Conceitos fundamentais de testes, verificação vs. validação e o papel estratégico do QA na prevenção de falhas.
-* [U01 - AV. Importância dos Testes e Custo de Defeitos](./M01U01-importancia-dos-testes-e-custo-de-defeitos.md)
+* [U01 - AV. Importância dos Testes e Custo de Defeitos](./modulo-01/M01U01-importancia-dos-testes-e-custo-de-defeitos.md)
   * Análise prática do sistema PsicoCare, mapeando a fase ideal de detecção de falhas, impactos no negócio/usuário e a curva do custo do defeito.
-* [U01 - AV. Manifesto Ágil de Testes e Tendências](./M01U01-manifesto-agil-de-testes-e-tendencias.md)
+* [U01 - AV. Manifesto Ágil de Testes e Tendências](./modulo-01/M01U01-manifesto-agil-de-testes-e-tendencias.md)
   * Comparativo entre QA Tradicional e QA Moderna, abordando Shift Left, automação, DevSecTestOps e desafios reais em projetos.
 
 ### Unidade 2: Processos e Metodologias
-* [U02 - AV. Metodologias de Desenvolvimento](./M01U02-metodologias-de-desenvolvimento.md)
+* [U02 - AV. Metodologias de Desenvolvimento](./modulo-01/M01U02-metodologias-de-desenvolvimento.md)
   * Tabela comparativa entre modelos Ágil e Cascata, detalhando vantagens, limitações e como a execução dos testes acontece em cada fluxo.
 
 ### Unidade 3: Tipos e Níveis de Testes
-* [U03 - AV. Testes Funcionais](./M01U03-testes-funcionais.md)
+* [U03 - AV. Testes Funcionais](./modulo-01/M01U03-testes-funcionais.md)
   * Técnicas de teste focadas em regras de negócio, entradas/saídas e comportamento esperado (Abordagem Caixa-Preta).
-* [U03 - AV. Testes não Funcionais](./M01U03-testes-não-funcionais.md)
+* [U03 - AV. Testes não Funcionais](./modulo-01/M01U03-testes-não-funcionais.md)
   * Validação de atributos de qualidade como desempenho, segurança, usabilidade, estabilidade e confiabilidade.
 
 ### Unidade 4: Estruturação e Especificação de Testes
-* [U04 - AV. Estruturando Casos de Teste](./M01U04-estruturando-casos-de-teste.md)
+* [U04 - AV. Estruturando Casos de Teste](./modulo-01/M01U04-estruturando-casos-de-teste.md)
   * Mapeamento de cenários bancários, escrita e diferenciação técnica entre testes de sistema e de aceitação, acompanhados de justificativas e revisão por pares.
-* [U04 - AV. Testes de Sistema e Aceitação](./M01U04-testes-de-sistema-e-aceitacao.md)
+* [U04 - AV. Testes de Sistema e Aceitação](./modulo-01/M01U04-testes-de-sistema-e-aceitacao.md)
   * Elaboração de uma suíte padronizada com 10 casos de teste para a tela de login, contemplando fluxo principal, caminhos alternativos, segurança e casos de borda.
