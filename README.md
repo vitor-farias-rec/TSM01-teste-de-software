@@ -1,34 +1,36 @@
-# 🚀 Formação Acelerada em Programação (FAP) — SOFTEX PE
+# Formação Acelerada em Programação (FAP) — SOFTEX PE
 
 [![Coordenação: SOFTEX PE](https://img.shields.io/badge/Coordena%C3%A7%C3%A3o-SOFTEX%20PE-blue?style=flat-square)](#)
 [![Execução: Aponti](https://img.shields.io/badge/Execu%C3%A7%C3%A3o-Aponti-orange?style=flat-square)](#)
 [![Apoio: MCTI](https://img.shields.io/badge/Apoio-MCTI-green?style=flat-square)](#)
-[![Trilha: Back-End](https://img.shields.io/badge/Trilha-Back--End-black?style=flat-square)](#)
+[![Trilha: Testes de Software](https://img.shields.io/badge/Trilha-Testes%20de%20Software-purple?style=flat-square)](#)
+[![Carga Horária: 215h](https://img.shields.io/badge/Carga%20Hor%C3%A1ria-215h-brightgreen?style=flat-square)](#)
 
-Repositório dedicado ao acompanhamento do meu desenvolvimento prático e teórico na **4ª Edição do Programa FAP**, uma iniciativa intensiva de 7 meses voltada à capacitação de alta performance em Tecnologia da Informação e Comunicação (TIC).
+Repositório dedicado ao registro do meu aprendizado e desenvolvimento prático na **4ª Edição do Programa FAP**, focado na trilha de **Testes de Software / Garantia da Qualidade (QA)**.
 
-O programa é coordenado pela **SOFTEX PE**, executado pela **Aponti** e conta com o apoio do **Ministério da Ciência, Tecnologia e Inovação (MCTI)**.
+A formação possui carga horária total de **215 horas** (159h presenciais e 56h remotas no AVA), sendo coordenada pela **SOFTEX PE**, executada pela **Aponti** e apoiada pelo **Ministério da Ciência, Tecnologia e Inovação (MCTI)**.
 
-> 🎯 **Foco da Trilha:** Construção de competências em desenvolvimento **Back-End**, abordando arquitetura de software, lógica aplicada, qualidade, testes e boas práticas para soluções web seguras e escaláveis.
+>  **Foco da Trilha & Metodologia:**  
+> Capacitação em **testes manuais e automatizados**, elaboração de casos de teste, identificação/registro de bugs e validação de requisitos de software. O aprendizado é estruturado via **Aprendizagem Baseada em Problemas (PBL)** e **Sala de Aula Invertida**, culminando na criação de um **Projeto Integrador** focado na resolução de desafios reais do mercado.
 
 ---
 
-## 📚 Módulo 01
+##  Módulo 01
 
 ### Unidade 1: Introdução à Qualidade e Testes
 * [U01 - AV. Introdução a Testes e Qualidade](./M01U01-introduçao-a-testes-e-qualidade.md)
-  * *Conceitos fundamentais de testes, verificação vs. validação e o papel da qualidade no ciclo de vida do software.*
+  * *Conceitos fundamentais de testes, verificação vs. validação e o papel estratégico do QA na prevenção de falhas.*
 * [U01 - AV. Importância dos Testes e Custo de Defeitos](./M01U01-importancia-dos-testes-e-custo-de-defeitos.md)
-  * *Análise do impacto financeiro e operacional de bugs em produção através da curva do Custo de Defeito (Regra de 10).*
+  * *Análise do impacto financeiro/operacional de bugs em produção e a curva do custo de correção de defeitos.*
 * [U01 - AV. Manifesto Ágil de Testes e Tendências](./M01U01-manifesto-agil-de-testes-e-tendencias.md)
-  * *Estudo sobre a mentalidade ágil em QA, testes contínuos (CI/CD) e o papel do QA moderno.*
+  * *A evolução da mentalidade de testes em contextos ágeis e a atuação contínua no ciclo de desenvolvimento.*
 
 ### Unidade 2: Processos e Metodologias
 * [U02 - AV. Metodologias de Desenvolvimento](./M01U02-metodologias-de-desenvolvimento.md)
-  * *Comparativo entre modelos tradicionais (Cascata) e ágeis (Scrum/Kanban) aplicados à garantia da qualidade.*
+  * *Comparativo entre modelos tradicionais (Cascata) e ágeis (Scrum/Kanban) sob a ótica da garantia da qualidade.*
 
 ### Unidade 3: Tipos e Níveis de Testes
 * [U03 - AV. Testes Funcionais](./M01U03-testes-funcionais.md)
-  * *Estratégias de teste focadas nos requisitos e regras de negócio do sistema (Caixa-Preta).*
+  * *Técnicas de teste focadas em regras de negócio, entradas/saídas e comportamento esperado (Abordagem Caixa-Preta).*
 * [U03 - AV. Testes não Funcionais](./M01U03-testes-não-funcionais.md)
-  * *Avaliação de atributos de qualidade como desempenho, segurança, usabilidade e escalabilidade.*
+  * *Validação de atributos de qualidade como desempenho, segurança, usabilidade, estabilidade e confiabilidade.*
