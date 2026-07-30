@@ -9,7 +9,7 @@
 | **Programa** | FAP 4ª Edição — SOFTEX PE (Coordenação) / Aponti (Execução) |
 | **Trilha** | Testes de Software |
 | **Módulo / Unidade** | Módulo 01 — Unidade 1 |
-| **Autor** | Vitor Pontes de Farias |
+| **Autor** | Vitor Pontes de Farias ([@seu-usuario-rec](https://github.com/seu-usuario-rec)) |
 | **Status** | 🟢 Concluído |
 
 ---
