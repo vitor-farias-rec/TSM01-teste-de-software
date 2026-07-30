@@ -34,3 +34,9 @@ A formação possui carga horária total de **215 horas** (159h presenciais e 56
   * Técnicas de teste focadas em regras de negócio, entradas/saídas e comportamento esperado (Abordagem Caixa-Preta).
 * [U03 - AV. Testes não Funcionais](./M01U03-testes-não-funcionais.md)
   * Validação de atributos de qualidade como desempenho, segurança, usabilidade, estabilidade e confiabilidade.
+
+### Unidade 4: Estruturação e Especificação de Testes
+* [U04 - AV. Estruturando Casos de Teste](./M01U04-estruturando-casos-de-teste.md)
+  * Mapeamento de cenários bancários, escrita e diferenciação técnica entre testes de sistema e de aceitação, acompanhados de justificativas e revisão por pares.
+* [U04 - AV. Testes de Sistema e Aceitação](./M01U04-testes-de-sistema-e-aceitacao.md)
+  * Elaboração de uma suíte padronizada com 10 casos de teste para a tela de login, contemplando fluxo principal, caminhos alternativos, segurança e casos de borda.
