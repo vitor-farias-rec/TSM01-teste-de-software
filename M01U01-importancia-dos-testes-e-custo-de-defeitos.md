@@ -9,7 +9,7 @@
 | **Programa** | FAP 4ª Edição — SOFTEX PE (Coordenação) / Aponti (Execução) |
 | **Trilha** | Testes de Software |
 | **Módulo / Unidade** | Módulo 01 — Unidade 1 |
-| **Sistema Analisado** | PsicoCare (https://github.com/andrelbribeiro/clinica-psi) |
+| **Sistema Analisado** | [PsicoCare](https://github.com/andrelbribeiro/clinica-psi) |
 | **Autor** | Vitor Pontes de Farias ([@vitor-farias-rec](https://github.com/vitor-farias-rec)) |
 | **Status** | Concluído |
 
