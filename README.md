@@ -2,7 +2,7 @@
 
 [![Coordenação: SOFTEX PE](https://img.shields.io/badge/Coordena%C3%A7%C3%A3o-SOFTEX%20PE-blue?style=flat-square)](#)
 [![Execução: Aponti](https://img.shields.io/badge/Execu%C3%A7%C3%A3o-Aponti-orange?style=flat-square)](#)
-[![Apoio: MCTI](https://img.shields.io/badge/Apoio-MCTI-green?style=flat-square)](#)
+[![Apoio: MCTI](https://img.shields.io/badge/Apoio-MCTI-teal?style=flat-square)](#)
 [![Trilha: Testes de Software](https://img.shields.io/badge/Trilha-Testes%20de%20Software-purple?style=flat-square)](#)
 [![Carga Horária: 215h](https://img.shields.io/badge/Carga%20Hor%C3%A1ria-215h-brightgreen?style=flat-square)](#)
 
