@@ -8,7 +8,7 @@
 | :--- | :--- |
 | **Programa** | FAP 4ª Edição — SOFTEX PE (Coordenação) / Aponti (Execução) |
 | **Trilha** | Testes de Software |
-| **Módulo / Unidade** | Módulo 01 — Unidade 3 |
+| **Módulo / Unidade** | Módulo 01 — Unidade 4 |
 | **Sistema Analisado** | Sistema Bancário — Consulta de Saldo e Autenticação (Cenário Fictício) |
 | **Autor** | Vitor Pontes de Farias ([@vitor-farias-rec](https://github.com/vitor-farias-rec)) |
 | **Status** | Concluído |
