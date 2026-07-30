@@ -6,9 +6,6 @@
 - [U01 - AV. Manifesto Ágil de Testes e Tendências](./M01U01-manifesto-agil-de-testes-e-tendencias.pdf)
 
 ## Unidade 2
-- [U02 - AV. Aplicar Todas as Fases do STLC](./M01U02-aplicar-fases-STLC.pdf)
-- [U02 - AV. Etapas Ciclo de Vida dos Testes](./M01U02-etapas-ciclo-de-vida-dos-testes.pdf)
-- [U02 - AV. Descrição do Sistema](./M01U02-descricao-do-sistema.pdf)
 - [U02 - AV. Metodologias de Desenvolvimento](./M01U02-metodologias-de-desenvolvimento.pdf)
 
 ## Unidade 3
