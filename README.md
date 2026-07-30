@@ -1,4 +1,4 @@
-# Formação Acelerada em Programação (FAP) — SOFTEX PE
+# Formação Acelerada em Programação — SOFTEX PE
 
 [![Coordenação: SOFTEX PE](https://img.shields.io/badge/Coordena%C3%A7%C3%A3o-SOFTEX%20PE-blue?style=flat-square)](#)
 [![Execução: Aponti](https://img.shields.io/badge/Execu%C3%A7%C3%A3o-Aponti-orange?style=flat-square)](#)
