@@ -1,4 +1,4 @@
-#  Atividade Avaliativa: Práticas de QA e Tendências
+#  Atividade Avaliativa: Manifesto Ágil de Testes e Tendências
 
 > Documento referente à atividade da **Trilha de Testes de Software** na **4ª Edição da Formação Acelerada em Programação (FAP)**.
 
