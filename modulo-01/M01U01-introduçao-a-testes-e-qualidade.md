@@ -10,7 +10,7 @@
 | **Trilha** | Testes de Software |
 | **Módulo / Unidade** | Módulo 01 — Unidade 1 |
 | **Autor** | Vitor Pontes de Farias ([@vitor-farias-rec](https://github.com/vitor-farias-rec)) |
-| **Status** | 🟢 Concluído |
+| **Status** |  Concluído |
 
 ---
 
