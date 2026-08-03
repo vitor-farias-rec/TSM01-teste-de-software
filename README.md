@@ -42,5 +42,5 @@ A formação possui carga horária total de **215 horas** (159h presenciais e 56
   * Elaboração de uma suíte padronizada com 10 casos de teste para a tela de login, contemplando fluxo principal, caminhos alternativos, segurança e casos de borda.
 * [U04 - AV. Testes de Smoke, Sanidade e Regressão](./modulo-01/M01U04-testes-de-smoke-sanidade-regressao.md)
   * Elaboração e justificativa de um plano de testes estruturado com 15 cenários, incluindo as modalidades de Smoke, Sanidade e Regressão com foco no fluxo de login e na exibição do saldo.
-* [U04 - AV. Testes de Perfomance](./modulo-01/M01U04-testes-exploratorios-e-de-usabilidade.md)
+* [U04 - AV. Testes Exploratórios e de Usabilidadae](./modulo-01/M01U04-testes-exploratorios-e-de-usabilidade.md)
   * Elaboraração de um plano de testes focado na experiência do usuário, mapeando cenários de exploração livre, identificando potenciais falhas de usabilidade e avaliando os impactos dessas inconsistências na jornada do usuário.
