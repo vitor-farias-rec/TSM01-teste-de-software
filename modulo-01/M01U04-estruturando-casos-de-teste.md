@@ -32,7 +32,7 @@
 | **TC-06** | Inserção de e-mail em formato sintaticamente inválido | Alternativo / Exceção | Validação do formato do campo de entrada |
 | **TC-07** | Bloqueio de conta após 3 tentativas consecutivas incorretas | Segurança / Regra | Proteção contra ataques de força bruta |
 | **TC-08** | Alternância da visibilidade da senha (Exibir/Ocultar) | Usabilidade / UI | Controle visual do campo de senha |
-| **TC-09** | Remoção de espaços em branco acidentais no e-mail (Trimming) | Caso Borda (*Edge*) | Tratamento e higienização de inputs |
+| **TC-09** | Remoção de espaços em branco acidentais no e-mail (Trimming) | Caso Borda | Tratamento e higienização de inputs |
 | **TC-10** | Prevenção de submissão duplicada por múltiplos cliques rápidos | Performance / UI | Bloqueio do botão no estado de carregamento |
 
 ---
