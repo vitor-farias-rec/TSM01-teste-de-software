@@ -16,7 +16,7 @@
 ---
 
 > **Objetivo da Atividade:**  
-> Elaborar uma suíte com no mínimo 10 casos de teste completos para a funcionalidade de Login, estruturados com ID, Título, Pré-condições, Passos e Resultado Esperado, contemplando tanto o caminho feliz quanto cenários alternativos e de exceção (*edge cases*).
+> Elaborar uma suíte com no mínimo 10 casos de teste completos para a funcionalidade de Login, estruturados com ID, Título, Pré-condições, Passos e Resultado Esperado, contemplando tanto o caminho feliz quanto cenários alternativos e de exceção.
 
 ---
 
@@ -106,7 +106,7 @@
 
 ---
 
-### 3. Cenários de Segurança, Usabilidade e Casos de Borda (*Edge Cases*)
+### 3. Cenários de Segurança, Usabilidade e Casos de Borda)
 
 #### TC-07: Bloqueio de conta após 3 tentativas consecutivas incorretas
 * **ID:** `TC-07`
