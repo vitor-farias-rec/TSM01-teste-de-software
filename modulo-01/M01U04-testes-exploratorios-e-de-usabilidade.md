@@ -20,7 +20,7 @@
 
 ---
 
-## 1. Exploração Livre do Sistema (Testes Exploratórios)
+## 1. Testes Exploratórios
 
 Em um teste exploratório, o objetivo é avaliar o comportamento da aplicação em cenários reais de uso, testando fluxos principais, regras de negócio e limites do sistema.
 
