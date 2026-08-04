@@ -54,7 +54,7 @@ Em um teste exploratório, o objetivo é avaliar o comportamento da aplicação 
 
    </details>
 
-3. **[CT03] Integração das Ações da Tabela (Edição e Status)**
+3. **[CT03] Integração das Ações da Tabela ('✎ ⌫')**
    * **O que testar:** Clicar nos ícones da coluna **Ações** para editar um registro e alterar o status de "Pendente" para "Confirmado".
    * **Comportamento esperado:** A alteração deve ser refletida imediatamente na tabela e refletir em outras áreas do sistema (como no módulo *Check-in e presença* e na *Agenda profissional*).
    * **Status:** 🔴 **Reprovado** *(Falha de integração entre módulos: a alteração do status para "Confirmado" é salva na tabela, porém não é refletida nos módulos "Check-in e presença" e "Agenda profissional", exigindo o cadastro manual e duplicado nas outras telas).*
@@ -82,7 +82,7 @@ Em um teste exploratório, o objetivo é avaliar o comportamento da aplicação 
 
    </details>
 
-5. **[CT05] Feedback de Lista Vazia (Busca sem resultados)**
+5. **[CT05] Feedback de Lista Vazia (`Pesquisar registros...`)**
    * **O que testar:** Digitar um termo ou nome inexistente na barra de pesquisa (ex: "Estudante").
    * **Comportamento esperado:** O sistema deve exibir uma mensagem clara e amigável informando que nenhum registro foi encontrado, em vez de deixar a tabela travada ou em branco sem aviso.
    * **Status:** 🟢 **Aprovado**
