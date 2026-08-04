@@ -114,7 +114,7 @@ Avalia a facilidade e praticidade do sistema na perspectiva do usuário, levando
 
    </details>
 
-2. **[US01] Botão de Atalho no Dashboard (`+Cadastrar Paciente`)**
+2. **[US02] Interação dos botões de Ação  ('✎ ⌫')**
    * **O que testar:** Aceitação do padrão internacional WCAG a respeito da visibilidade (ex: Paleta de cores do fundo ).
    * **Comportamento esperado:** O contraste entre o texto e os elementos da interface deve estar, no mínimo, no padrão AA para que o usuário possa enxergar com clareza o botão.
    * * **Status:** 🔴 **Reprovado** *(Proporção de contraste entre o elemento o texto pequeno do botão e a paleta de cores dele em relação ao fundo da tela está em _____).
