@@ -95,3 +95,35 @@ Em um teste exploratório, o objetivo é avaliar o comportamento da aplicação 
    https://github.com/user-attachments/assets/257f8e6d-f8a9-4e6f-9fe6-13ee19bda056
 
    </details>
+
+## 2. Testes de Usabilidade
+
+Avalia a facilidade e praticidade do sistema na perspectiva do usuário, levando em conta, inclusive aspectos de visibilidade e legibilidade também.
+
+1. **[US01] Botão de Atalho no Dashboard (`+Cadastrar Paciente`)**
+   * **O que testar:** Aceitação do padrão internacional WCAG a respeito da visibilidade (ex: Paleta de cores do fundo ).
+   * **Comportamento esperado:** O contraste entre o texto e os elementos da interface deve estar, no mínimo, no padrão AA para que o usuário possa enxergar com clareza o botão.
+   * * **Status:** 🔴 **Reprovado** *(Proporção de contraste entre o elemento o texto pequeno do botão e a paleta de cores dele em relação ao fundo da tela está em _____).
+    
+   <details>
+   <summary>📹 <b>Clique para expandir a evidência em vídeo (CT05)</b></summary>
+
+   <br>
+   
+   VIDEO
+
+   </details>
+
+2. **[US01] Botão de Atalho no Dashboard (`+Cadastrar Paciente`)**
+   * **O que testar:** Aceitação do padrão internacional WCAG a respeito da visibilidade (ex: Paleta de cores do fundo ).
+   * **Comportamento esperado:** O contraste entre o texto e os elementos da interface deve estar, no mínimo, no padrão AA para que o usuário possa enxergar com clareza o botão.
+   * * **Status:** 🔴 **Reprovado** *(Proporção de contraste entre o elemento o texto pequeno do botão e a paleta de cores dele em relação ao fundo da tela está em _____).
+    
+   <details>
+   <summary>📹 <b>Clique para expandir a evidência em vídeo (CT05)</b></summary>
+
+   <br>
+   
+   VIDEO
+
+   </details>
