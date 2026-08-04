@@ -11,7 +11,7 @@
 | **Módulo / Unidade** | Módulo 01 — Unidade 4 |
 | **Sistema Analisado** | Nova versão de Sistema Bancário (Cenário Fictício) |
 | **Autor** | Vitor Pontes de Farias ([@vitor-farias-rec](https://github.com/vitor-farias-rec)) |
-| **Status** | Em execução |
+| **Status** | Em Execução |
 
 ---
 
