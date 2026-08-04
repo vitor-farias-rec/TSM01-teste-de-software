@@ -46,3 +46,8 @@ A formação possui carga horária total de **215 horas** (159h presenciais e 56
   * Elaboração de relatório de testes de performance do sistema para determinar sua aprovação, identificar métricas críticas e gargalos de desempenho, classificar o cenário do teste a fim de propor melhorias.
 * [U04 - AV. Testes Exploratórios e de Usabilidade](./modulo-01/M01U04-testes-exploratorios-e-de-usabilidade.md)
   * Elaboração de um plano de testes focado na experiência do usuário, mapeando cenários de exploração livre, identificando potenciais falhas de usabilidade e avaliando os impactos dessas inconsistências na jornada do usuário.
+
+### Unidade 5: Estratégia de Testes
+
+* [U05 - AV. Estratégia de Testes](./modulo-01/M01U04-estrategia-de-testes.md)
+  * 
