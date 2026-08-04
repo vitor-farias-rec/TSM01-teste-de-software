@@ -32,7 +32,7 @@
 | **TC-06** | Inserção de e-mail em formato sintaticamente inválido | Alternativo / Exceção | Validação do formato do campo de entrada |
 | **TC-07** | Bloqueio de conta após 3 tentativas consecutivas incorretas | Segurança / Regra | Proteção contra ataques de força bruta |
 | **TC-08** | Alternância da visibilidade da senha (Exibir/Ocultar) | Usabilidade / UI | Controle visual do campo de senha |
-| **TC-09** | Remoção de espaços em branco acidentais no e-mail (Trimming) | Caso Borda | Tratamento e higienização de inputs |
+| **TC-09** | Remoção de espaços em branco acidentais no e-mail | Caso Borda | Tratamento e higienização de inputs |
 | **TC-10** | Prevenção de submissão duplicada por múltiplos cliques rápidos | Performance / UI | Bloqueio do botão no estado de carregamento |
 
 ---
@@ -121,17 +121,17 @@
 #### TC-08: Alternância da visibilidade da senha (Exibir/Ocultar)
 * **ID:** `TC-08`
 * **Título:** Ocultação e revelação dos caracteres do campo de senha
-* **Pré-condições:** Aplicação aberta na tela de login com o campo de senha preenchido com `SenhaSecret123`.
+* **Pré-condições:** Aplicação aberta na tela de login com o campo de senha preenchido com `Senha123`.
 * **Passos:**
   1. Verificar que os caracteres do campo de senha estão mascarados em formato de bolinhas/asteriscos.
   2. Clicar no ícone de "olho" (Exibir senha) localizado dentro do campo de senha.
-  3. Verificar se o texto `SenhaSecret123` fica visível em texto simples.
+  3. Verificar se o texto `Senha123` fica visível em texto simples.
   4. Clicar novamente no ícone de "olho" (Ocultar senha).
 * **Resultado Esperado:** O campo alterna corretamente entre o tipo `password` (caracteres mascarados) e o tipo `text` (caracteres visíveis), permitindo que o usuário confira o que digitou.
 
-#### TC-09: Remoção de espaços em branco acidentais no e-mail (Trimming)
+#### TC-09: Remoção de espaços em branco acidentais no e-mail
 * **ID:** `TC-09`
-* **Título:** Tratamento de espaços antes e depois do e-mail (*Trimming*)
+* **Título:** Tratamento de espaços antes e depois do e-mail
 * **Pré-condições:** Usuário cadastrado com o e-mail `cliente@email.com` e senha `Senha@123`.
 * **Passos:**
   1. Inserir no campo "E-mail" o texto com espaços extras: `   cliente@email.com   `.
@@ -145,4 +145,4 @@
 * **Pré-condições:** Aplicação aberta na tela de login com credenciais preenchidas. Conexão simulada com latência de rede.
 * **Passos:**
   1. Clicar rapidamente 3 vezes seguidas no botão "Entrar".
-* **Resultado Esperado:** Ao primeiro clique, o botão "Entrar" assume o estado desabilitado (`disabled`), exibe um indicador visual de carregamento (*spinner*) e impede o envio de requisições duplicadas ao servidor.
+* **Resultado Esperado:** Ao primeiro clique, o botão "Entrar" assume o estado desabilitado, exibe um indicador visual de carregamento (*spinner*) e impede o envio de requisições duplicadas ao servidor.
