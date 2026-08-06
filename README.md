@@ -49,5 +49,5 @@ A formação possui carga horária total de **215 horas** (159h presenciais e 56
 
 ### Unidade 5: Estratégia de Testes
 
-* [U05 - AV. Estratégia de Testes](./modulo-01/M01U04-estrategia-de-testes.md)
+* [U05 - AV. Estratégia de Testes](./modulo-01/m01u05-estrategia-testes.md)
   * 
