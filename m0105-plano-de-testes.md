@@ -98,7 +98,7 @@ O prazo de entrega já está definido pelo projeto, então os testes seguem este
 | Fechamento de entregas grandes | Teste de aceitação com a equipe da clínica |
 | Depois da entrega | Novo ciclo começa, já considerando o que a equipe da clínica relatar no uso real |
 
-### 1.7 Riscos e Contingências
+### 1.7 Riscos
 
 | Risco | Impacto | O que fazer |
 |---|---|---|
