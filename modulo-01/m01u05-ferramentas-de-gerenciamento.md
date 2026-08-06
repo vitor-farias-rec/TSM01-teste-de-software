@@ -24,7 +24,7 @@
 ### Organização, Rastreamento e Gerenciamento de casos de testes
 
 **Passos:**
-1. Criação de Espaços: 
+1. Criação de Espaços/Projetos: 
 2. Adição de Membros: 
 3. Gerenciamento de Usuários e Funções
 	3.1 Invite por e-mail no Jira CLoud.
