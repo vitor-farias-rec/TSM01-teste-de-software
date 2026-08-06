@@ -100,30 +100,72 @@ Em um teste exploratório, o objetivo é avaliar o comportamento da aplicação 
 
 Avalia a facilidade e praticidade do sistema na perspectiva do usuário, levando em conta, inclusive aspectos de visibilidade e legibilidade também.
 
-1. **[US01] Botão de Atalho no Dashboard (`+Cadastrar Paciente`)**
-   * **O que testar:** Aceitação do padrão internacional WCAG a respeito da visibilidade (ex: Paleta de cores do fundo ).
-   * **Comportamento esperado:** O contraste entre o texto e os elementos da interface deve estar, no mínimo, no padrão AA para que o usuário possa enxergar com clareza o botão.
-   * * **Status:** 🔴 **Reprovado** *(Proporção de contraste entre o elemento o texto pequeno do botão e a paleta de cores dele em relação ao fundo da tela está em _____).
+1. **[US01] Constraste visual do botão (`+Cadastrar Paciente`)**
+   * **O que testar:** nível de contraste entre a cor do texto e o fundo do botão principal (`+ Cadastrar Paciente`) em relação ao fundo da tela, com base nas diretrizes internacionais de acessibilidade WCAG (nível AA).
+   * **Comportamento esperado:** botão principal deve ter um nível de contraste mínimo de 4.5:1 em relação ao fundo para garantir leitura fácil por qualquer pessoa.
+   * * **Status:** 🔴 **Reprovado** *(A combinação do azul do botão com o texto pequeno em branco apresenta taxa de contraste abaixo do recomendado pelo padrão WCAG 2.1 AA, dificultando a leitura rápida).
     
    <details>
    <summary>📹 <b>Clique para expandir a evidência em vídeo (CT05)</b></summary>
 
    <br>
    
-   VIDEO
+   VIDEO_US02.mp4
 
    </details>
 
-2. **[US02] Interação dos botões de Ação  ('✎ ⌫')**
-   * **O que testar:** Aceitação do padrão internacional WCAG a respeito da visibilidade (ex: Paleta de cores do fundo ).
-   * **Comportamento esperado:** O contraste entre o texto e os elementos da interface deve estar, no mínimo, no padrão AA para que o usuário possa enxergar com clareza o botão.
-   * * **Status:** 🔴 **Reprovado** *(Proporção de contraste entre o elemento o texto pequeno do botão e a paleta de cores dele em relação ao fundo da tela está em _____).
-    
+2. **[US02] Dica de Tela nos Ícones de Ação ('✎ ⌫')**
+   * **O que testar:** Verificar se o sistema exibe uma legenda informativa quando o usuário passa o ponteiro do mouse sobre os ícones da coluna **Ações**.
+   * **Comportamento esperado:** Ao posicionar o mouse sobre o lápis ou sobre o ícone de remoção, deve aparecer um pequeno balão de texto indicando a função de cada um (ex: "Editar agendamento" e "Excluir agendamento").
+   * **Status:** 🔴 **Reprovado** *(Nenhuma legenda explicativa surge ao passar o mouse sobre os ícones, o que pode causar dúvidas na recepção sobre o significado exato dos símbolos).*
+
    <details>
-   <summary>📹 <b>Clique para expandir a evidência em vídeo (CT05)</b></summary>
+   <summary>📹 <b>Clique para expandir a evidência em vídeo (US02)</b></summary>
 
    <br>
    
-   VIDEO
+   VIDEO_US02.mp4
+
+   </details>
+
+3. **[US03] Formatação de Data Amigável ao Usuário (`2026-07-20`)**
+   * **O que testar:** Analisar a clareza e o padrão de exibição das datas registradas na tabela de agendamentos.
+   * **Comportamento esperado:** As datas devem ser exibidas no formato habitual do Brasil (`DD/MM/AAAA`, ex: `20/07/2026`), tornando a leitura mais natural para a equipe da clínica.
+   * **Status:** 🔴 **Reprovado** *(O sistema exibe a data no formato técnico/americano `AAAA-MM-DD`, desacelerando a leitura visual e o entendimento imediato por parte do usuário).*
+
+   <details>
+   <summary>📹 <b>Clique para expandir a evidência em vídeo (US03)</b></summary>
+
+   <br>
+   
+   VIDEO_US03.mp4
+
+   </details>
+
+4. **[US04] Destaque Visual para Status da Consulta (`Confirmado` / `Pendente`)**
+   * **O que testar:** Avaliar o uso de elementos visuais (como cores e etiquetas) para diferenciar os diferentes estados na coluna **Status**.
+   * **Comportamento esperado:** Status diferentes devem ter destaque visual intuitivo (por exemplo, etiqueta verde para "Confirmado" e amarela/laranja para "Pendente"), permitindo bater o olho e entender a situação da agenda.
+   * **Status:** 🔴 **Reprovado** *(Os status são exibidos apenas como texto simples em preto, sem diferenciação por cores ou fundo destacado, dificultando a identificação rápida do estado dos agendamentos).*
+
+   <details>
+   <summary>📹 <b>Clique para expandir a evidência em vídeo (US04)</b></summary>
+
+   <br>
+   
+   VIDEO_US04.mp4
+
+   </details>
+
+5. **[US05] Sinalização da Seção Ativa no Menu Lateral (`Agendamentos`)**
+   * **O que testar:** Verificar se a tela em que o usuário se encontra fica claramente destacada no menu de navegação à esquerda.
+   * **Comportamento esperado:** A opção correspondente à página atual deve possuir um contraste visual diferenciado (fundo destacado ou indicador ativo), ajudando o usuário a se orientar no sistema.
+   * **Status:** 🟢 **Aprovado** *(O item "Agendamentos" aparece destacado com fundo azul escuro/iluminado no menu lateral, deixando evidente para a recepcionista em qual módulo ela está navegando).*
+
+   <details>
+   <summary>📹 <b>Clique para expandir a evidência em vídeo (US05)</b></summary>
+
+   <br>
+   
+   VIDEO_US05.mp4
 
    </details>
